@@ -1,3 +1,18 @@
 # Table of contents
 
 * [My Little Dino](README.md)
+* [How My Little Dino Works](how-my-little-dino-works/README.md)
+  * [DINO Token](how-my-little-dino-works/dino-token.md)
+  * [Decentralized Exchange](how-my-little-dino-works/decentralized-exchange.md)
+  * [Dino Nest](how-my-little-dino-works/dino-nest.md)
+  * [DinoWorlds](how-my-little-dino-works/dinoworlds.md)
+  * [Dinosaurs](how-my-little-dino-works/dinosaurs.md)
+* [Roadmap](roadmap/README.md)
+  * [Dinoverse](roadmap/dinoverse.md)
+  * [FAQ](roadmap/faq.md)
+  * [Meet the Team](roadmap/meet-the-team.md)
+  * [Take Over the Dinoverse](roadmap/take-over-the-dinoverse.md)
+  * [Audit Results](roadmap/audit-results.md)
+  * [Disclaimer](roadmap/disclaimer.md)
+  * [Credits](roadmap/credits.md)
+  * [Contact Us](roadmap/contact-us.md)
