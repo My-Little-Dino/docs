@@ -14,7 +14,7 @@ My Little Dino is a game, a DEX, a liquidity pool opportunity, a market of rare 
 
 ### The motivation for creating My Little Dino
 
-Of course this project has a huge influence from DeFi Kingdoms, the original DEX NFT-based game on the Harmony Network; however, we’re big fans of the innovation happening with NFTs, DeFi and blockchain technology in general as well. We've been waiting to make a DeFi project to really embrace the full potential of the blockchain in game form. Investing and getting those sweet returns and moon shots is undoubtedly fun, but why can't it feel more like a game? Why can't we build an operation and level it up to increase my returns. Why can't we do a multiplayer game to collect rare NFTs that actually augment and impact the rewards and returns? Once we decided it needed to be built, we jumped head first into production, and My Little Dino was evolved!
+Of course this project has a huge influence from DeFi Kingdoms, the original DEX NFT-based game on the Solana Network; however, we’re big fans of the innovation happening with NFTs, DeFi and blockchain technology in general as well. We've been waiting to make a DeFi project to really embrace the full potential of the blockchain in game form. Investing and getting those sweet returns and moon shots is undoubtedly fun, but why can't it feel more like a game? Why can't we build an operation and level it up to increase my returns. Why can't we do a multiplayer game to collect rare NFTs that actually augment and impact the rewards and returns? Once we decided it needed to be built, we jumped head first into production, and My Little Dino was evolved!
 
 #### A strategically assembled team with a shared vision
 
